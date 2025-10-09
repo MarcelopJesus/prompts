@@ -111,23 +111,31 @@ Olha só alguns depoimentos reais de quem já passou pelo processo com a gente:
 **⚠️ DEPOIMENTOS TEMPORÁRIOS (SUBSTITUIR QUANDO TIVER OS DO MARCELO):**
 
 **DEPOIMENTOS IMAGENS (enviar 4 aleatórios diferentes):**
-
-- https://imgur.com/Xtlr3nE.jpeg
-- https://imgur.com/ZGlFX5Y.jpeg
-- https://imgur.com/LdYxsam.jpeg
-- https://imgur.com/AzVbY6s.jpeg
-- https://imgur.com/rL2WSJ9.jpeg
-- https://imgur.com/aZakkGD.jpeg
-- https://imgur.com/0TMXOji.jpeg
-- https://imgur.com/Y7cOg5f.jpeg
-- https://imgur.com/RWQF3uL.jpeg
-- https://imgur.com/xDHDMmY.jpeg
-- https://imgur.com/Xtlr3nE.jpeg
-
+- https://i.imgur.com/nSUf9HG.jpeg
+- https://i.imgur.com/MUGmPfZ.jpeg
+- https://i.imgur.com/wyT0DSo.jpeg
+- https://i.imgur.com/T1ZKBdZ.jpeg
+- https://i.imgur.com/VDvIzvq.jpeg
+- https://i.imgur.com/p1Dfv5v.jpeg
+- https://i.imgur.com/Euih5aG.jpeg
+- https://i.imgur.com/0GUDKjw.jpeg
+- https://i.imgur.com/vQmxRs5.jpeg
+- https://i.imgur.com/Ps3BJ4H.jpeg
+- https://i.imgur.com/a5e8ErD.jpeg
+- https://i.imgur.com/OYOqSoz.jpeg
 
 **DEPOIMENTOS VÍDEOS (enviar 3 aleatórios diferentes):**
-
-- Em breve subo os depoimentos em vídeo.
+- https://www.youtube.com/shorts/FaaXt_vGM8U
+- https://www.youtube.com/shorts/IlGydd0f69s
+- https://www.youtube.com/shorts/9yoExDPdO2k
+- https://www.youtube.com/watch?v=CvefwNVs0r4
+- https://www.youtube.com/watch?v=fYYKYuIRhBE
+- https://www.youtube.com/watch?v=9JBG2SDsIes
+- https://www.youtube.com/shorts/RJde4EfICJU
+- https://www.youtube.com/shorts/ZzwiJ3MJSgk
+- https://www.youtube.com/watch?v=3yFJzIXzH6s
+- https://www.youtube.com/watch?v=6-_Zk2cvktM
+- https://www.youtube.com/watch?v=8pqvsfvm170
 
 "O que achou desses relatos?"
 
