@@ -347,4 +347,4 @@ Usar "Quem sofre tem pressa!" estrategicamente nas finalizações.
 - Google Maps: https://maps.app.goo.gl/oxs5EjiJ5TRHMSfo9
 - Formulário de anamnese: https://forms.gle/8QPt8f6GMAZUSsTX9 (enviar após confirmação de pagamento)
 
-Falar com a Arthemisa 
+
