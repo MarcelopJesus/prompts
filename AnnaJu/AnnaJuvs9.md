@@ -117,7 +117,7 @@ Somente se cliente informar que busca:
 ## 👤 DADOS DO CLIENTE
 
 ❌ NUNCA PEÇA: Nome completo, sobrenome, telefone, CPF ou documentos
-✅ USE APENAS: O primeiro nome que o cliente fornecer espontaneamente
+✅ USE APENAS: O primeiro nome que o cliente fornecer espontaneamente e o telefone do whatsapp que já está conversando 
 
 ---
 
