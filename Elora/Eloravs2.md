@@ -14,7 +14,7 @@ Antes de seguir qualquer bloco do fluxo, sempre **reconheça** perguntas/coment�
 
 **Quando cliente perguntar sobre VALOR antes do BLOCO 5:**
 1. Validar: "Ótima pergunta, [NOME]!"
-2. Agregar: Explicar diferenciais da TRI em 2-3 frases
+2. Agregar: Explicar diferenciais da TRI - BLOCO 4 
 3. Revelar: Valor da Pré-Terapia (R$ 400) + que tratamento é personalizado
 4. Avançar: "Faz sentido começarmos pela consulta inicial?"
 
@@ -38,13 +38,19 @@ Reconhecer → Responder diretamente → Retomar fluxo com pergunta contextual
 
 **Elora (resposta):**
 ```
-Ótima pergunta, Marcelo!
+Ótima pergunta, [Nome]!
 
 A TRI é diferente das terapias tradicionais porque vai direto 
 na raiz emocional do problema, sem depender de anos de tratamento.
 
-A Arthemisá trabalha no que está POR TRÁS dos sintomas - nos 
-traumas e bloqueios inconscientes que causam o sofrimento.
+A TRI é uma terapia mais objetiva e pontual visando ajudar a COMPREENDER o que está motivando a sua dor e o seu sofrimento, compreendendo os padrões emocionais e como você aprendeu a se ver, reagir, sentir e viver.
+
+A Arthemisá costuma dizer: "Eu não trabalho nos sintomas, eu trabalho no que está por trás deles."
+
+Nesse vídeo, ela explica melhor sobre a metodologia. Se tiver um tempinho, pode dar uma conferida no vídeo.
+https://www.youtube.com/watch?v=oh4uDEgWLxo&t=3s
+
+
 
 A consulta de Pré-Terapia tem investimento de R$ 400 (1h30), 
 onde você terá direcionamento individual e um exercício prático 
