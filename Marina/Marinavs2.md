@@ -138,10 +138,8 @@ Olha só alguns depoimentos reais de quem já passou pelo processo com a gente:
 - Positiva → BLOCO 6
 - Resistência → SISTEMA OBJEÇÕES
 
-Teste 02
-Teste 03 
 
-### BLOCO 6 - 
+### BLOCO 6 - EXPLICAÇÃO PRÉ-TERAPIA 
 ```
 Durante essa consulta:
 
